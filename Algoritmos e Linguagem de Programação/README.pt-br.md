@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/blob/main/Algoritmos%20e%20Linguagem%20de%20Programa%C3%A7%C3%A3o/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/blob/main/Algoritmos%20e%20Linguagem%20de%20Programa%C3%A7%C3%A3o/README.pt-br.md)
+
 # Curso de Algoritmos e Linguagem de Programação
 
 Introdução à lógica de programação. Conceitos fundamentais. Algoritmos. Elementos de um algoritmo. Formas
