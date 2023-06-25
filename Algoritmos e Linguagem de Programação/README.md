@@ -6,10 +6,9 @@ Acesso a banco de dados; Programação paralela; Assinatura e implantação de a
 
 # Exercícios
 
-* Exercício 1 - Utilizando o Visual Studio, construir um formulário (Forms C#) com conexão com banco de  dados, com as operações de CRUD (Create, Read, Update, Delete), ou seja, Criar, Ler, Atualizar e Deletar registros.
+* Avaliação 3 - Lista de exercícios para praticar programação em C e compor notar da N2.
 
-* Exercício 2 -  Construir uma aplicação (Visual Studio>Forms C# ou console application), que simule uma calculadora, com as operações de somar, subtrair, multiplicar e dividir. Tendo como entrada dois número informados pelo usuário e um campo com o resultado da operação.
-Obs. utilizar conceitos de Orientação a Objetos.
+* Extras -  Alguns exercícios extras que usei para praticar mais a linguagem C.
 
 # Plano de ensino
 
