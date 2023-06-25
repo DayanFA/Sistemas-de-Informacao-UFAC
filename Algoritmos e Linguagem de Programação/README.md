@@ -1,8 +1,11 @@
 # Curso de Algoritmos e Linguagem de Programação
 
-Comandos básicos; Conceitos de programação Orientada a Objetos; Leitura e escrita de arquivos;
-Acesso a banco de dados; Programação paralela; Assinatura e implantação de assemblies .NET Core,
-.NET Standard e .NET Framework; Visão geral de Padrões de Projeto.
+Introdução à lógica de programação. Conceitos fundamentais. Algoritmos. Elementos de um algoritmo. Formas
+de representação: português estruturado. Tipos de dados. Variáveis. Estrutura sequencial. Declaração de
+variáveis. Tipos de variáveis. Constantes. Comentários. Expressões, operadores e funções. Comandos básicos.
+Estruturas condicionais. Estruturas de repetição. Estruturas de dados homogêneas: vetores e matrizes.
+Programação estruturada em linguagem de alto nível. Funções e uso de ponteiros na linguagem de programação
+C.
 
 # Exercícios
 
