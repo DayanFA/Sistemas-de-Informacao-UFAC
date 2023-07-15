@@ -8,8 +8,8 @@ de programação. Projeto de linguagens de programação. Tendências em Linguag
 
 # Exercícios
 
-* Exercícios - Lista de exercícios para praticar programação em Python e compor notar da N1 e N2.
 * Avaliações - Prova da N1 e N2.
+* Exercícios - Lista de exercícios para praticar programação em Python e compor notar da N1 e N2.
 * Extras - Some additional exercises that I used to practice the Python language further.
 
 # Plano de ensino
