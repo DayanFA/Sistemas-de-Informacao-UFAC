@@ -7,11 +7,6 @@ From the learnings I acquired during the execution of this activity:
 
 • I learned more about pointers.
 
-• How libraries function and how to create them.
-
-• Solving other problems and improving my code.
-
 # Question
 
 There were no questions; the content was well-explained, and I believe I grasped it effectively.
-
