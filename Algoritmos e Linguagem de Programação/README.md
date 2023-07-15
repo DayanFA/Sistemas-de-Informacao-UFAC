@@ -7,7 +7,7 @@ Introduction to Programming Logic. Fundamental concepts. Algorithms. Elements of
 
 # Exercises
 
-* Exam 3 - Exercise list to practice programming in C and compose the grade for N2.
+* Avaliação 3 - Exercise list to practice programming in C and compose the grade for N2.
 
 * Extras - Some additional exercises that I used to practice the C language further.
 
