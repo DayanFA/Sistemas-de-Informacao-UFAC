@@ -7,6 +7,7 @@ Concepts of programming languages. Syntax and semantics. Type systems. Programmi
 
 # Exercises
 
+BeeCrowd: https://www.beecrowd.com.br/judge/en/profile/850802
 * Avaliações - N1 and N2 test.
 * Exercícios - Exercises to practice programming in Python and compose the grade for N1 and N2.
 * Extras - Some additional exercises that I used to practice the Python language further.
