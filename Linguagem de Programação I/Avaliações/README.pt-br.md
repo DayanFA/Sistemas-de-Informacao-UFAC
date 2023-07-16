@@ -5,7 +5,7 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• a.
+* a.
 
 # Dúvida
 
