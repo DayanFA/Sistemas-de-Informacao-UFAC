@@ -9,4 +9,4 @@ From the learnings I acquired during the execution of this activity:
 
 # Dúvida
 
-There were no questions; the content was well-explained, and I believe I grasped it effectively.
+There were no questions, the content was well-explained, and I believe I grasped it effectively.
