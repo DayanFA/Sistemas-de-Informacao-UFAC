@@ -5,10 +5,10 @@
 
 From the learnings I acquired during the execution of this activity:
 
-• I learned more about pointers.
+* a.
 
 # Question
 
 Among the questions that came up during the execution of this activity
 
-* Some things about Python, more libraries, and some code snippets here and there.
+* ae.
