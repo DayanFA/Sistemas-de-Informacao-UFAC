@@ -5,11 +5,11 @@
 
 From the learnings I acquired during the execution of this activity
 
-• I gained a better understanding of how the C language functions.
+* I gained a better understanding of how the C language functions.
 
-• I learned how to solve problems using a programming language.
+* I learned how to solve problems using a programming language.
 
-• I learned how to apply algorithmic concepts and adhere to best practices when programming in a language.
+* I learned how to apply algorithmic concepts and adhere to best practices when programming in a language.
 
 # Question
 
