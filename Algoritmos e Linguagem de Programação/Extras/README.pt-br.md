@@ -5,11 +5,11 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• Aprendi mais sobre ponteiros.
+* Aprendi mais sobre ponteiros.
 
-• Como bibliotecas funcionam e como criar elas.
+* Como bibliotecas funcionam e como criar elas.
 
-• Resolver outros problemas e melhorar meu código.
+* Resolver outros problemas e melhorar meu código.
 
 # Dúvida
 
