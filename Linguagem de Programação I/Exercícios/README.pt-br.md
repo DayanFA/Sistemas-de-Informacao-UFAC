@@ -5,7 +5,7 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• aprendi boas práticas da programação.
+* aprendi boas práticas da programação.
 * Aprendi mais sobre Python e suas funcionalidade.
 * Coloquei em prática, raciocínio logico para resolver as questões.
 
