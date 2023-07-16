@@ -5,10 +5,12 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• a.
+• aprendi boas práticas da programação.
+* Aprendi mais sobre Python e suas funcionalidade.
+* Coloquei em prática, raciocínio logico para resolver as questões.
 
 # Dúvida
 
 Dentre as dúvidas que sugiram durante a execução dessa atividade
 
-* a.
+* Algumas coisinhas sobre Python, mais bibliotecas e uns códigos ali e aqui.
