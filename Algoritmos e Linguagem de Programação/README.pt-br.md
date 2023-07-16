@@ -23,5 +23,3 @@ C.
 ![Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programação_Sistemas_2022_2-2](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/assets/123272343/5f43c2c0-9f4c-4660-b60f-c0800f9a32a8)
 
 PDF: [Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programação_Sistemas_2022_2.pdf](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/files/11860228/Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programacao_Sistemas_2022_2.pdf)
-
-
