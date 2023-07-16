@@ -5,11 +5,7 @@
 
 From the learnings I acquired during the execution of this activity:
 
-• I learned more about pointers.
-
-• How libraries function and how to create them.
-
-• Solving other problems and improving my code.
+* Deeper understanding of the Python language.
 
 # Question
 
