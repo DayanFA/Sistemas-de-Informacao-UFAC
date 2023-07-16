@@ -3,7 +3,7 @@
 
 # Learned
 
-From the learnings I acquired during the execution of this activity:
+From the learnings I acquired during the execution of this activity
 
 • I learned more about pointers.
 
