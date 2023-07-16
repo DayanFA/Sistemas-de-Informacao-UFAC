@@ -5,13 +5,15 @@
 
 From the learnings I acquired during the execution of this activity
 
-• I learned more about pointers.
+* I learned good programming practices.
 
-• How libraries function and how to create them.
+* I learned more about Python and its functionalities.
 
-• Solving other problems and improving my code.
+* I applied logical reasoning to solve the questions.
 
 # Question
 
-There were no questions, the content was well-explained, and I believe I grasped it effectively.
+Among the questions that came up during the execution of this activity
+
+* Some things about Python, more libraries, and some code snippets here and there.
 
