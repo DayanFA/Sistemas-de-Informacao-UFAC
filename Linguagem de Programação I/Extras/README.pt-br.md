@@ -5,10 +5,8 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• a.
+* Mais aprofundamento na linguagem Python.
 
 # Dúvida
 
-Dentre as dúvidas que sugiram durante a execução dessa atividade
-
-* a.
+Sem dúvidas.
