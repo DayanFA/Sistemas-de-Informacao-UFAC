@@ -5,11 +5,11 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• Entendi melhor como a linguagem C funciona.
+* Entendi melhor como a linguagem C funciona.
 
-• Como resolver problemas usando uma linguagem de programação.
+* Como resolver problemas usando uma linguagem de programação.
 
-• Como atribuir os aprendizados de algorítimo e guiar boas práticas na hora de programar uma linguagem.
+* Como atribuir os aprendizados de algorítimo e guiar boas práticas na hora de programar uma linguagem.
 
 # Dúvida
 
