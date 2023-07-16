@@ -9,4 +9,6 @@ From the learnings I acquired during the execution of this activity:
 
 # Question
 
-There were no questions; the content was well-explained, and I believe I grasped it effectively.
+Among the questions that came up during the execution of this activity
+
+* Some things about Python, more libraries, and some code snippets here and there.
