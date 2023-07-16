@@ -3,10 +3,12 @@
 
 # Aprendizado
 
-From the learnings I acquired during the execution of this activity:
+Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-• I learned more about pointers.
+• a.
 
 # Dúvida
 
-There were no questions; the content was well-explained, and I believe I grasped it effectively.
+Dentre as dúvidas que sugiram durante a execução dessa atividade
+
+* a.
