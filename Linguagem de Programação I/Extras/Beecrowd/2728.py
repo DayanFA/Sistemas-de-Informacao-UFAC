@@ -1,17 +1,17 @@
 while True:
     try:
-        a, letras = list(input().split('-')), []
-        palavra = 'cobol'
-        cont = 0
+        a = list(input().split('-'))
+        p = 'cobol'
+        c = 0
         for i in range(5):
-            if a[i][0].lower() == palavra[cont]:
-                cont += 1
-                if cont == 5:
+            if a[i][0].lower() == p[c]:
+                c += 1
+                if c == 5:
                     print('GRACE HOPPER')
                     break
-            elif a[i][-1].lower() == palavra[cont]:
-                cont += 1
-                if cont == 5:
+            elif a[i][-1].lower() == p[c]:
+                c += 1
+                if c == 5:
                     print('GRACE HOPPER')
                     break
         else:
