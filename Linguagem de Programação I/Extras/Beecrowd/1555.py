@@ -1,18 +1,27 @@
 def r(x, y):
-    return (3 * x) ** 2 + y ** 2
+    return (3 * x) * (3 * x) + y * y
+
+
 def b(x, y):
-    return 2 * (x ** 2) + (5 * y) ** 2
+    return 2 * x * x + (5 * y) * (5 * y)
+
+
 def c(x, y):
-    return -100 * x + y ** 3
-n = int(input())
-for _ in range(n):
-    x, y = map(int, input().split())
-    raf = r(x, y)
-    bet = b(x, y)
-    car = c(x, y)
-    if raf > bet and raf > car:
+    return -100 * x + y * y * y
+
+
+N = int(input())
+
+for _ in range(N):
+    x, y = [int(x) for x in input().strip().split(' ')]
+
+    rafael = r(x, y)
+    beto = b(x, y)
+    carlos = c(x, y)
+
+    if(rafael > beto and rafael > carlos):
         print('Rafael ganhou')
-    elif bet > raf and bet > car:
+    elif(beto > carlos):
         print('Beto ganhou')
     else:
         print('Carlos ganhou')
