@@ -44,7 +44,7 @@ def create_relatorio_window(app):
 
 def exportar_relatorio(app):
     # Recuperar os dados do banco de dados de relatórios
-    conn = sqlite3.connect("app.db")  # Use o caminho correto para o banco de dados
+    conn = sqlite3.connect("app.db")  
     cursor = conn.cursor()
     cursor.execute(
         "SELECT chave, aluno, professor, data_hora, data_devolucao, tempo_com_chave, termo FROM relatorio")
