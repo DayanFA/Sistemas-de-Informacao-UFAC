@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 #include "mpi.h"
 
 int main(int argc, char** argv) {
@@ -20,17 +19,17 @@ int main(int argc, char** argv) {
         MPI_Send(&b, 1, MPI_INT, 3, tag, MPI_COMM_WORLD);
     } else if (rank == 1) {
         MPI_Recv(&a, 1, MPI_INT, 0, tag, MPI_COMM_WORLD, &status);
-        resultado = (a * a)-2;
-        printf("Processo 1 ((a^2)-2): %d\n", resultado);
+        resultado = a * a;
+        printf("Processo 1 (a^2): %d\n", resultado);
     } else if (rank == 2) {
         MPI_Recv(&a, 1, MPI_INT, 0, tag, MPI_COMM_WORLD, &status);
         MPI_Recv(&b, 1, MPI_INT, 0, tag, MPI_COMM_WORLD, &status);
-        resultado = (2 * a * b)+2;
-        printf("Processo 2 ((2ab)+2): %d\n", resultado);
+        resultado = 2 * a * b;
+        printf("Processo 2 (2ab): %d\n", resultado);
     } else if (rank == 3) {
         MPI_Recv(&b, 1, MPI_INT, 0, tag, MPI_COMM_WORLD, &status);
-        resultado = (b * b)/2;
-        printf("Processo 3 ((b^2)/2): %d\n", resultado);
+        resultado = b * b;
+        printf("Processo 3 (b^2): %d\n", resultado);
     }
 
     MPI_Finalize();
